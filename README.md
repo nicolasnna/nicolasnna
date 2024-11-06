@@ -3,8 +3,13 @@
 
 Soy ingeniero mecatrónico enfocado en el area de la robótica y del desarrollo de software. Actualmente estoy aprendiendo desarrollo web mientras mejoro mis habilidades para programar en sistemas robóticos.
 
+<div align="center">
 
+<a ref="https://porfolio-nicolasnna.vercel.app/" target="blank">
+  <img width="500" src="./docs/porfolio.png/" />
+</a>
 
+</div>
 
 <div align="center">
   
