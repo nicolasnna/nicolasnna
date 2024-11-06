@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"> Hola 👋, Soy Nicolás Norambuena </h1>
 
-<!--
-**nicolasnna/nicolasnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy ingeniero mecatrónico enfocado en el area de la robótica y del desarrollo de software. Actualmente estoy aprendiendo desarrollo web mientras mejoro mis habilidades para programar en sistemas robóticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div align="center">
+  
+  [![](https://github-readme-stats.vercel.app/api?username=nicolasnna&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/nicolasnna)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=nicolasnna&theme=material-palenight&locale=es)](https://github.com/nicolasnna)
+  
+</div>
