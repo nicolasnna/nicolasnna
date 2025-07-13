@@ -5,9 +5,9 @@ Soy ingeniero mecatrónico enfocado en el area de la robótica y del desarrollo 
 
 <div align="center">
 
-[<a href="https://porfolio-nicolasnna.vercel.app/" target="blank">
+<!-- <a href="https://porfolio-nicolasnna.vercel.app/" target="blank">
   <img width="500" src="./docs/porfolio.png/" alt="porfolio" />
-</a>](url)
+</a> -->
 
 </div>
 
